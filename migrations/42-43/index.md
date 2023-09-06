@@ -5,12 +5,6 @@ sidebar_position: 997
 4.2 to 4.3
 ==========
 
-:::caution TODO
-
-This page is unfinished, please use the **Edit this Page** link at the bottom of this page to help make it more useful.
-
-:::
-
 Joomla! 4.3 is a feature release. It also holds all deprecations which are targeted
 to be remove in 6.0.
 

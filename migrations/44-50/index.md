@@ -19,12 +19,6 @@ to the [Compatibility Plugin](compat-plugin.md).
 In 5.0 are all the template files (default.php) changed from `Factory::getUser()` to `$this->getCurrentUser()`.
 
 
-:::caution TODO
-
-This page is unfinished, please use the **Edit this Page** link at the bottom of this page to help make it more useful.
-
-:::
-
 ## Form field classes
 There is a long list of old style form field classes that have no equivalent in Joomla 5. For example:
 - JFormFieldList

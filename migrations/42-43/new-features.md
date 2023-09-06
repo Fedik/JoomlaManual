@@ -18,9 +18,3 @@ in the path attribute of the manifest xml file.
 Suggest Namespace:
 XML: `Vendorname\Template\TemplateName` Path Attribute: `src`   
 PHP: `Vendorname\Template\TemplateName\Site` Location: `templates/TemplateName/src` 
-
-:::caution TODO
-
-This page is unfinished, please use the **Edit this Page** link at the bottom of this page to help make it more useful.
-
-:::

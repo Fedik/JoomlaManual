@@ -6,12 +6,6 @@ New deprecations
 ===============
 All the new deprecations that should be aware of and what you should now be using instead.
 
-:::caution TODO
-
-This page is unfinished, please use the **Edit this Page** link at the bottom of this page to help make it more useful.
-
-:::
-
 # File deprecations
 
 As part of restructuring it's possible that files get moved or classes get a namespace.

@@ -6,12 +6,6 @@ sidebar_position: 4
 
 As part of Joomla! 5.0 a plugin was introduced which enhance backward compatibility.
 
-:::caution TODO
-
-This page is unfinished, please use the **Edit this Page** link at the bottom of this page to help make it more useful.
-
-:::
-
 ## Class Aliases
 
 Basically everything which is in `libraries/classmap.php` and `libraries/extensions.classmap.php` 
